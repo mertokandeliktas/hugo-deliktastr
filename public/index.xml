@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mert Okan Deliktaş</title>
+    <link>http://deliktas.tr/</link>
+    <description>Recent content on Mert Okan Deliktaş</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://deliktas.tr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Initial Post</title>
+      <link>http://deliktas.tr/posts/first/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://deliktas.tr/posts/first/</guid>
+      <description>&lt;p&gt;Hello, I&amp;rsquo;ll be posting my blogs here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://deliktas.tr/about/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://deliktas.tr/about/</guid>
+      <description>&lt;p&gt;Hello! I’m Mert Okan Deliktaş, a student at Yeditepe University with a strong focus on cybersecurity, networking, and IT industry. My passion for technology drives me to constantly learn and develop skills in these fields. I enjoy exploring the latest threats in cybersecurity, understanding network security, and discovering the dynamics of the IT industry. My goal is to continue growing my expertise and contribute to the field in the future&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://deliktas.tr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://deliktas.tr/contact/</guid>
+      <description>&lt;p&gt;You can reach out to me via Linkedn or by sending me a mail.&lt;/p&gt;&#xA;&lt;p&gt;My E-mail adress is &amp;ldquo;mertokan {at} deliktas {dot} tr&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
